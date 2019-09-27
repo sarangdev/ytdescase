@@ -1,0 +1,2 @@
+Header add Access-Control-Allow-Origin "https://askquest-app.ytdescase.ru"
+Header add Access-Control-Allow-Methods: "GET,POST,OPTIONS,DELETE,PUT"
